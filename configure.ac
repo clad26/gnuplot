@@ -1171,11 +1171,7 @@ AC_SUBST(TUTORIAL)
 dnl Write Makefiles and configuration header
 AC_CONFIG_FILES([Makefile
            config/Makefile
-           demo/Makefile
-           demo/plugin/Makefile
-           docs/Makefile
            m4/Makefile
-           man/Makefile
            share/Makefile
            share/LaTeX/Makefile
            src/Makefile
